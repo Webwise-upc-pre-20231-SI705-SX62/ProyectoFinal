@@ -1,0 +1,13 @@
+.container{
+    text-align: center;
+    align-items: center;
+
+ 
+}
+.form-control{
+    font-family: 'Bai Jamjuree', sans-serif;
+    margin-bottom: 10px;
+    border-radius: 15px 15px; 
+    font-size:inherit;
+
+}
